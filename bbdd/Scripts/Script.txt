@@ -1,0 +1,9 @@
+create table alimento(
+nombre varchar(100),
+    proteinas integer,
+     carbohidratos integer,
+     grasas integer,
+     calorias integer
+);
+
+insert into alimento values ('pollo',24,0,3,107);
